@@ -24,7 +24,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![home](./screenshot/home2.jpg)
 ![home](./screenshot/home3.jpg)
 ![even1](./screenshot/even1.jpg)
-![even2](./screenshot/even2.jpg)
+![event2](./screenshot/even2.jpg)
 
 ## Learn More
 
