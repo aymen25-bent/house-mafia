@@ -1,14 +1,15 @@
 import Gallery from "@/components/Gallery";
 import Hero from "@/components/Hero";
 import Store from "@/components/Store";
-import Image from "next/image";
 
-export default function Home() {
+const Accueil = ({ setPage }) => {
   return (
     <main>
-      <Hero />
+      <Hero setPage={setPage} />
       <Gallery />
       <Store />
     </main>
   );
-}
+};
+
+export default Accueil;
