@@ -20,11 +20,11 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 ## Screnshoot
-![home](./screenshot/home.png)
-![home](./screenshot/home2.png)
-![home](./screenshot/home3.png)
-![even1](./screenshot/even1.png)
-![even2](./screenshot/even2.png)
+![home](./screenshot/home.jpg)
+![home](./screenshot/home2.jpg)
+![home](./screenshot/home3.jpg)
+![even1](./screenshot/even1.jpg)
+![even2](./screenshot/even2.jpg)
 
 ## Learn More
 
