@@ -1,0 +1,22 @@
+.container {
+  padding: 1rem;
+  background-color: var(--textcolor);
+  color: var(--bgcolor);
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+}
+
+.logo {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #fe1900;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+}

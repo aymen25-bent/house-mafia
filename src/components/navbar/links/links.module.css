@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.active {
+  background-color: #fe1900;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
